@@ -1,0 +1,52 @@
+---
+## Front matter
+lang: ru-RU
+title: Лабораторная работа №12
+subtitle: Настройки сети в Linux
+author:
+  - Гурылев А.А
+institute:
+  - Российский университет дружбы народов, Москва, Россия
+date: 21 декабря 2024
+
+## i18n babel
+babel-lang: russian
+babel-otherlangs: english
+
+## Formatting pdf
+toc: false
+toc-title: Содержание
+slide_level: 2
+aspectratio: 169
+section-titles: true
+theme: metropolis
+header-includes:
+ - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
+
+## Fonts
+mainfont: PT Serif
+romanfont: PT Serif
+sansfont: PT Sans
+monofont: PT Mono
+mainfontoptions: Ligatures=TeX
+romanfontoptions: Ligatures=TeX
+sansfontoptions: Ligatures=TeX,Scale=MatchLowercase
+monofontoptions: Scale=MatchLowercase,Scale=0.9
+---
+
+# Лабораторная работа №12
+
+## Работа с сетевыми интерфейсами
+
+
+
+## Изменение настроек сетевых интерфейсов
+
+
+
+## Добавление адресов
+
+
+
+
+
